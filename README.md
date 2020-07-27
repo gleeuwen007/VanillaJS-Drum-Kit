@@ -1,1 +1,0 @@
-# VanillaJS-Drum-Kit
